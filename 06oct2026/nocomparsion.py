@@ -1,6 +1,6 @@
 l =[]
 n =int(input("enter "))
-for i in range(0,n):
+for i in range(1,n):
     a =int(input("enter a"))
     l.append(a)
     greatest =max(l)
