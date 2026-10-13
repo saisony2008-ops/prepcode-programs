@@ -1,4 +1,4 @@
 d ={}
-n =int(input())
-for _ in range(n):
-    d["name"]=input("enter your name ")
+d["name"]=input("enter your name ")
+d["age"]= int(input())
+print(d)
